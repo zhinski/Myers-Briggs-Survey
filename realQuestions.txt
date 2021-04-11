@@ -1,0 +1,207 @@
+notes that won’t print
+
+;
+1. When the phone rings do you: 
+(a) hurry to get it first (b)hope someone else will answer     ; 0 ; 0;
+
+2. Are you more:
+(a) observant than introspective (b) introspective than observant     ; 1 ; 0;
+
+3. Is it worse to: 
+(a) have your head in the clouds (b) be in a lull     ; 1 ; 0;
+
+4. With people are you usually more: 
+(a) firm than gentle (b) gentle than firm    ; 2 ; 0;
+
+5. Are you more comfortable in making: 
+(a) critical judgments  (b) value judgments    ; 2 ; 0;
+
+6. Is clutter in the workspace something you: 
+(a) take time to straighten up (b) tolerate pretty well     ; 3 ; 0;
+
+7. Is it your way to: 
+(a) make up your mind quickly (b) pick and choose at some length    ; 3 ; 0;
+
+8. Waiting in line, do you often: 
+(a) chat with others (b) stick to business     ; 0 ; 0;
+
+9. Are you more: 
+(a) sensible than ideational (b) ideational than sensible    ; 1 ; 0;
+
+10. Are you more interested in: 
+(a) what is actual (b) what is possible    ; 1 ; 0;
+
+11. In making up your mind, are you more likely to go by: 
+(a) data (b) desires    ; 2 ; 0;
+
+12. In sizing up others, do you tend to be: 
+(a) objective and impersonal  (b) friendly and personal    ; 2 ; 0;
+
+13. Do you prefer contracts to be: 
+(a) signed, sealed, and delivered (b) settled on a handshake     ; 3 ; 0;
+
+14. Are you more satisfied having: 
+(a) a finished product (b) a work in progress    ; 3 ; 0;
+
+15. At a party, do you: 
+(a) interact with many, even strangers (b) interact with a few friends    ; 0 ; 0;
+
+16. Do you tend to be more: 
+(a) factual than speculative (b) speculative than factual    ; 1 ; 0;
+
+17. Do you like writers who: 
+(a) say what they mean (b) use metaphors and symbolism    ; 1 ; 0;
+
+18. Which appeals to you more: 
+(a) consistency of thought (b) harmonious relationships    ; 2 ; 0;
+
+19. If you must disappoint someone, are you usually: 
+(a) frank and straightforward (b) warm and considerate    ; 2 ; 0;
+
+20. On the job, do you want your activities: 
+(a) scheduled (b) unscheduled     ; 3 ; 0;
+
+21. Do you more often prefer: 
+(a) final, unalterable statements (b)  tentative, preliminary statements   ; 3 ; 0;
+
+22. Does interacting with strangers: 
+(a) energize you (b) tax your reserves    ; 0 ; 0;
+
+23. Facts: 
+(a) speak for themselves (b) illustrate principles     ; 1 ; 0;
+
+24. Do you find visionaries and theorists: 
+(a) somewhat annoying (b) rather fascinating     ; 1 ; 0;
+
+25. In a heated discussion, do you: 
+(a) stick to your guns (b) look for common ground     ; 2 ; 0;
+
+26. It is better to be: 
+(a) just (b)  merciful   ; 2 ; 0;
+
+27. At work, is it more common for you to: 
+(a) point out mistakes (b) try to please others    ; 3 ; 0;
+
+28. Are you more comfortable: 
+(a) after a decision (b) before a decision     ; 3 ; 0;
+
+29. Do you tend to: 
+(a) say right out what is on your mind (b)  keep your ears open   ; 0 ; 0;
+
+30. Common sense is: 
+(a) usually reliable (b) frequently questionable     ; 1 ; 0;
+
+31. Children often do not: 
+(a) make themselves useful enough (b) exercise their imagination enough    ; 1 ; 0;
+
+32. When in charge of others, do you tend to be: 
+(a) firm and unbending (b) forgiving and lenient    ; 2 ; 0;
+
+33. Are you more often: 
+(a) a cool-headed person (b) a warm-hearted person    ; 2 ; 0;
+
+34. Are you prone to: 
+(a) nailing things down (b) exploring the possibilities    ; 3 ; 0;
+
+35. In most situations, are you more: 
+(a) deliberate than spontaneous (b) spontaneous than deliberate    ; 3 ; 0;
+
+36. Do you think of yourself as: 
+(a) an outgoing person (b) a private person   ; 0 ; 0;
+
+37. Are you more frequently: 
+(a) a practical sort of person (b) a fanciful sort of person    ; 1 ; 0;
+
+38. Do you speak more in: 
+(a) particulars than generalities (b) generalities than particulars     ; 1 ; 0;
+
+39. Which is more of a compliment: 
+(a) There is a logical person (b) There is a sentimental person.    ; 2 ; 0;
+
+40. Which rules you more: 
+(a) your thoughts (b) your feelings    ; 2 ; 0;
+
+41. When finishing a job, do you like to: 
+(a) tie up all the loose ends (b)  move on to something else   ; 3 ; 0;
+
+42. Do you prefer to work: 
+(a) to deadlines (b) just whenever    ; 3 ; 0;
+
+43. Are you the kind of person who: 
+(a) is rather talkative (b) does not miss much     ; 0 ; 0;
+
+44. Are you inclined to take what is said: 
+(a) more literally (b) more figuratively    ; 1 ; 0;
+
+45. Do you often see: 
+(a) what is right in front of you (b) what can only be imagined    ; 1 ; 0;
+
+46. Is it worse to be: 
+(a) a softie (b) hard-nosed    ; 2 ; 0;
+
+47. In trying circumstances, are you sometimes: 
+(a) too unsympathetic (b) too sympathetic    ; 2 ; 0;
+
+48. Do you tend to choose: 
+(a) rather carefully (b) somewhat impulsively    ; 3 ; 0;
+
+49. Are you inclined to be more: 
+(a) hurried than leisurely (b) leisurely than hurried   ; 3 ; 0;
+
+50. At work, do you tend to: 
+(a) be more sociable with your colleagues (b) keep more to yourself     ; 0 ; 0;
+
+51. Are you more likely to trust: 
+(a) your experiences (b) your conceptions    ; 1 ; 0;
+
+52. Are you more inclined to feel: 
+(a) down to earth (b) somewhat removed    ; 1 ; 0;
+
+53. Do you think of yourself as a: 
+(a) tough-minded person (b) tender-hearted person   ; 2 ; 0;
+
+54. Do you value in yourself more that you are: 
+(a) reasonable (b) devoted   ; 2 ; 0;
+
+55. Do you usually want things: 
+(a) settled and decided (b) just penciled in     ; 3 ; 0;
+
+56. Would you say you are more: 
+(a) serious and determined (b)  easy-going   ; 3 ; 0;
+
+57. Do you consider yourself: 
+(a) a good conversationalist (b) a good listener    ; 0 ; 0;
+
+58. Do you prize in yourself: 
+(a) a strong hold on reality (b) a vivid imagination    ; 1 ; 0;
+
+59. Are you drawn more to: 
+(a) fundamentals (b) overtones    ; 1 ; 0;
+
+60. Which seems the greater fault: 
+(a) to be too compassionate (b)  to be too dispassionate   ; 2 ; 0;
+
+61. Are you swayed more by: 
+(a) convincing evidence (b) a touching appeal    ; 2 ; 0;
+
+62. Do you feel better about: 
+(a) coming to closure (b) keeping your options open    ; 3 ; 0;
+
+63. Is it preferable mostly to: 
+(a) make sure things are arranged (b) just let things happen naturally    ; 3 ; 0;
+
+
+
+64. In stories, do you prefer: 
+(a) action and adventure (b) fantasy and heroism    ; 1 ; 0;
+
+
+
+65. Which do you wish more for yourself: 
+(a) strength of will (b) strength of emotion    ; 2 ; 0;
+
+
+
+66. Do you tend to notice: 
+(a) disorderliness (b) opportunities for change    ; 3 ; 0;
+
